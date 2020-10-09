@@ -7,7 +7,7 @@ Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf
 [Paper Links](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf)
 
 ```markdown
-Syntax highlighted code block
+'''Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src)'''
 ```
 
 Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf).
