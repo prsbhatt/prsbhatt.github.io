@@ -6,30 +6,13 @@ Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf
 
 [Paper Links](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf)
 
-```markdown
-'''Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)'''
-```
 
 Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf).
 
-### Jekyll Themes
+### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prsbhatt/prsbhatt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Grants
+
