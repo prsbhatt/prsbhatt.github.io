@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Publications
 
-You can use the [editor on GitHub](https://github.com/prsbhatt/prsbhatt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://ifip.byu.edu/2020/DRW2020_paper_9.pdf
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Conference Publications [DRW-IFIP](https://ifip.byu.edu/2020/DRW2020_paper_9.pdf).
 
 ### Jekyll Themes
 
